@@ -1,0 +1,8 @@
+# Private
+buffer.py
+credentials.py
+*.session
+
+# Python
+__pycache__
+.idea
